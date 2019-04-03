@@ -1,0 +1,24 @@
+
+
+
+
+nnnn  nnnnnnnn       mmmmmmm    mmmmmmm     aaaaaaaaaaaaa  ppppp   ppppppppp
+n:::nn::::::::nn   mm:::::::m  m:::::::mm   a::::::::::::a p::::ppp:::::::::p
+n::::::::::::::nn m::::::::::mm::::::::::m  aaaaaaaaa:::::ap:::::::::::::::::p
+nn:::::::::::::::nm::::::::::::::::::::::m           a::::app::::::ppppp::::::p
+  n:::::nnnn:::::nm:::::mmm::::::mmm:::::m    aaaaaaa:::::a p:::::p     p:::::p
+  n::::n    n::::nm::::m   m::::m   m::::m  aa::::::::::::a p:::::p     p:::::p
+  n::::n    n::::nm::::m   m::::m   m::::m a::::aaaa::::::a p:::::p     p:::::p
+  n::::n    n::::nm::::m   m::::m   m::::ma::::a    a:::::a p:::::p    p::::::p
+  n::::n    n::::nm::::m   m::::m   m::::ma::::a    a:::::a p:::::ppppp:::::::p
+  n::::n    n::::nm::::m   m::::m   m::::ma:::::aaaa::::::a p::::::::::::::::p
+  n::::n    n::::nm::::m   m::::m   m::::m a::::::::::aa:::ap::::::::::::::pp
+  nnnnnn    nnnnnnmmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaap::::::pppppppp
+                                                            p:::::p
+                                                            p:::::p
+                                                           p:::::::p
+                                                           p:::::::p
+                                                           p:::::::p
+                                                           ppppppppp
+
+

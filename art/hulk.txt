@@ -1,0 +1,20 @@
+
+
+HHHHHHHHH     HHHHHHHHH                  lllllll kkkkkkkk
+H:::::::H     H:::::::H                  l:::::l k::::::k
+H:::::::H     H:::::::H                  l:::::l k::::::k
+HH::::::H     H::::::HH                  l:::::l k::::::k
+  H:::::H     H:::::H  uuuuuu    uuuuuu   l::::l  k:::::k    kkkkkkk
+  H:::::H     H:::::H  u::::u    u::::u   l::::l  k:::::k   k:::::k
+  H::::::HHHHH::::::H  u::::u    u::::u   l::::l  k:::::k  k:::::k
+  H:::::::::::::::::H  u::::u    u::::u   l::::l  k:::::k k:::::k
+  H:::::::::::::::::H  u::::u    u::::u   l::::l  k::::::k:::::k
+  H::::::HHHHH::::::H  u::::u    u::::u   l::::l  k:::::::::::k
+  H:::::H     H:::::H  u::::u    u::::u   l::::l  k:::::::::::k
+  H:::::H     H:::::H  u:::::uuuu:::::u   l::::l  k::::::k:::::k
+HH::::::H     H::::::HHu:::::::::::::::uul::::::lk::::::k k:::::k
+H:::::::H     H:::::::H u:::::::::::::::ul::::::lk::::::k  k:::::k
+H:::::::H     H:::::::H  uu::::::::uu:::ul::::::lk::::::k   k:::::k
+HHHHHHHHH     HHHHHHHHH    uuuuuuuu  uuuullllllllkkkkkkkk    kkkkkkk
+
+

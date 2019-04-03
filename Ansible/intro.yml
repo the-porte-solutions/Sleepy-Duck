@@ -1,0 +1,107 @@
+---
+- hosts: localhost
+  become: yes
+  gather_facts: false
+  tasks:
+      - name: Fixing the APT (updating and upgrading)
+        shell: |
+            apt-get update -y
+            apt-get upgrade -y
+            apt-get autoremove -y
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines
+
+      - name: Installation of NMAP
+        shell: |
+            apt-get install nmap -y
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines
+
+      - name: Installation of NIKTO
+        shell: |
+            cd ..
+            mkdir tools
+            cd tools/
+            mkdir nikto
+            cd nikto/
+            wget https://github.com/sullo/nikto/archive/master.zip
+            unzip master.zip
+            cd nikto-master/program
+            apt-get install perl -y
+            perl nikto.pl
+            cd ../..
+            cd Ansible/
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines
+
+      - name: Installation of SLOWLORIS
+        shell: |
+            cd ..
+            apt-get install perl -y
+            apt-get install libwww-mechanize-shell-perl
+            apt-get install perl-mechanize && apt-get install libfuture-perl
+            cd tools/
+            git clone https://github.com/llaera/slowloris.pl.git
+            cd ../..
+            cd Ansible/
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines
+
+
+      - name: Installation of HULK
+        shell: |
+            cd ..
+            apt-get install git -y
+            cd tools/
+            git clone https://github.com/grafov/hulk.git
+            cd ..
+            cd Ansible/
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines
+
+
+      - name: Installation of GoldenEye
+        shell: |
+            cd ..
+            apt-get install git -y
+            cd tools/
+            git clone https://github.com/jseidl/GoldenEye.git
+            cd ..
+            cd Ansible/
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines
+
+
+      - name: Installation of Hping3
+        shell: |
+            cd ..
+            apt-get install hping3 -y
+            cd Ansible
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines
+
+
+      - name: 
+        shell: |
+            grn=$'\e[1;32m'
+            echo "${grn}- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ${end}"
+            echo "${grn} YOU ARE GOOD TO HACK ! ! !${end}"
+            echo "${grn}- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ${end}"
+        args:
+            executable: /bin/bash
+        register: out
+      - debug: var=out.stdout_lines

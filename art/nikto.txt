@@ -1,0 +1,18 @@
+
+
+NNNNNNNN        NNNNNNNN  iiii  kkkkkkkk                    tttt
+N:::::::N       N::::::N i::::i k::::::k                 ttt:::t
+N::::::::N      N::::::N  iiii  k::::::k                 t:::::t
+N:::::::::N     N::::::N        k::::::k                 t:::::t
+N::::::::::N    N::::::Niiiiiii  k:::::k    kkkkkkkttttttt:::::ttttttt       ooooooooooo
+N:::::::::::N   N::::::Ni:::::i  k:::::k   k:::::k t:::::::::::::::::t     oo:::::::::::oo
+N:::::::N::::N  N::::::N i::::i  k:::::k  k:::::k  t:::::::::::::::::t    o:::::::::::::::o
+N::::::N N::::N N::::::N i::::i  k:::::k k:::::k   tttttt:::::::tttttt    o:::::ooooo:::::o
+N::::::N  N::::N:::::::N i::::i  k::::::k:::::k          t:::::t          o::::o     o::::o
+N::::::N   N:::::::::::N i::::i  k:::::::::::k           t:::::t          o::::o     o::::o
+N::::::N    N::::::::::N i::::i  k:::::::::::k           t:::::t          o::::o     o::::o
+N::::::N     N:::::::::N i::::i  k::::::k:::::k          t:::::t    tttttto::::o     o::::o
+N::::::N      N::::::::Ni::::::ik::::::k k:::::k         t::::::tttt:::::to:::::ooooo:::::o
+N::::::N       N:::::::Ni::::::ik::::::k  k:::::k        tt::::::::::::::to:::::::::::::::o
+N::::::N        N::::::Ni::::::ik::::::k   k:::::k         tt:::::::::::tt oo:::::::::::oo
+NNNNNNNN         NNNNNNNiiiiiiiikkkkkkkk    kkkkkkk          ttttttttttt     ooooooooooo
