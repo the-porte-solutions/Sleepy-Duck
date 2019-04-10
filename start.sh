@@ -100,11 +100,12 @@ nikto()
         echo -n "$target" >> tools/nikto/attack_nikto.txt
         cd tools/nikto
         bash attack_nikto.txt
-        # move report_nikto.html to /results
-        pwd
-        mv report_nikto.html ../..
         cd ../..
-        mv report_nikto.html results/
+        # move report_nikto.html to /results
+        #pwd
+        #mv report_nikto.html ../..
+        #cd ../..
+        #mv report_nikto.html results/
     else
         echo "We will not run any of scripts as you said"
     fi

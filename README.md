@@ -1,8 +1,6 @@
 # <img src="art/logo.png">  Sleepy Duck  <img src="art/logo.png">
 
-
-
-It's an open source project created for performing vulnerability assessments automatically.
+Welcome to the Open Source Project created by the Porte Solutions!
 
 ## Why Sleepy Duck? 
 
