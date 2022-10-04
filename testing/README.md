@@ -12,10 +12,10 @@ So far, I have the following versions ready to work:
 
 - Debian based
 - Windows
+- CentOS
 
 I will be working to include:
 
-- CentOS and RedHat Enterprise
 - FreeBSD
 
 #
