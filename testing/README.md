@@ -11,11 +11,11 @@ If you desire to test it out, I use Docker containers as well as Vagrant Boxes t
 So far, I have the following versions ready to work: 
 
 - Debian based
+- Windows
 
 I will be working to include:
 
 - CentOS and RedHat Enterprise
-- Windows
 - FreeBSD
 
 #
